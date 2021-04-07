@@ -2,7 +2,7 @@
 
 ### Hi, I'm Billy 👋
 
-I spent 12 years of my life living in diving chamber all over the planet. I'm a recent graduate of LightHouse Labs and am actively trying to get out of the water and into the world of web development.
+I spent 12 years of my life living in a diving chamber all over the planet. I'm a recent graduate of LightHouse Labs and am actively trying to get out of the water and into the world of web development.
 
 - 📱 I’m currently working on my portfolio webpage & an app for CN Rail
 - 💻 One of the best parts of web dev is not having to write on pen and paper... as a lefty (if you know you know)
