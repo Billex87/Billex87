@@ -1,12 +1,11 @@
-<img align="right" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
+<img align="right" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" width=350px height=465px/>
 
-### Hi, I'm Kaya 👋
+### Hi, I'm Billy 👋
 
-I’m an iOS developer, writer and public speaker. I'm the creator of [We Read Too](wereadtoo.com), a book resource app that features books for kids and teens with main characters of colors written by Black, Latinx, Asian and Indigenous authors. I currently work as a Senior Software Engineer at Calm. 
+I spent 12 years of my life living in diving chamber all over the planet. I'm a recent graduate of LightHouse Labs and am actively trying to get out of the water and into the world of web development.
 
-- 📱  I’m currently working on Calm, We Read Too and Irth App.
-- 🤓 I’m currently learning SwiftUI.
-- 💬  Ask me about iOS development, Swift, accessibility.
-- 📫  How to reach me: kaya@hey.com or Twitter [@kthomas901](twitter.com/kthomas901)
-- 😄  Pronouns: she/her
-- 🚴🏽‍♀️  Fun fact: I love cycling and I'm currently building up my mileage so I can do my first century ride!
+- 📱  I’m currently working on my portfolio webpage, and an app for CN Rail
+- 💻  One of the best parts of web dev is not having to write on pen and paper... as a lefty (if you know you know)
+- 🤓 I’m currently fine tuning my skills with FreeCodeCamp
+- 📫  How to reach me: billy_mckinnon@hotmail.com
+- 🚴🏽‍♀️  Fun fact: Even though I've spent months flying to work, I am DEATHLY afraid of heights
