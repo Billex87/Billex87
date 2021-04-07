@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" width=350px height=465px/>
+<img align="right" src="https://github.com/Billex87/final-project/blob/master/react-front-end/public/images/binary-code-binary-file-binary-number-ascii-byte-coding-png-binary-code-png-900_1000.jpg" width=350px height=465px/>
 
 ### Hi, I'm Billy 👋
 
