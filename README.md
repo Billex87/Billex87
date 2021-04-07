@@ -8,4 +8,4 @@ I spent 12 years of my life living in a diving chamber all over the planet. I'm 
 - 💻 One of the best parts of web dev is not having to write on pen and paper... as a lefty (if you know you know)
 - 🤓 I’m currently fine tuning my skills with FreeCodeCamp
 - 📫  How to reach me: billy_mckinnon@hotmail.com
-- 🚴🏽‍♀️  Fun fact: Even though I've spent months flying to work, I am DEATHLY afraid of heights
+- 🚴🏽‍♀️  Fun fact: Even though I've flown all over, I am DEATHLY afraid of heights
