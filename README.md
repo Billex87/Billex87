@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Billex87/final-project/blob/master/react-front-end/public/images/binary-code-binary-file-binary-number-ascii-byte-coding-png-binary-code-png-900_1000.jpg" width=350px height=465px/>
+<img align="right" src="https://github.com/Billex87/Billex87/blob/main/favpng_florida-scuba-divers-underwater-diving-diving-mask-scuba-diving.png" width=350px height=465px/>
 
 ### Hi, I'm Billy 👋
 
