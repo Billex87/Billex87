@@ -9,3 +9,5 @@ I spent 12 years of my life living in a diving chamber all over the planet. I'm 
 - 🤓 I’m currently fine tuning my skills with FreeCodeCamp
 - 📫  How to reach me: billy_mckinnon@hotmail.com
 - 🚴🏽‍♀️  Fun fact: I am DEATHLY afraid of heights
+-  Link to our Midterm Project https://drive.google.com/file/d/1qWMjCsRZwXaTALJ5yBUboVkRxfWnzTB-/view?usp=sharing
+-  Link to our Final Project https://drive.google.com/file/d/1BDYtnU6JS4ADiOzHGSguMJ8JYRGP1-bX/view?usp=drivesdk
