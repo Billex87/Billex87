@@ -6,7 +6,7 @@ I spent 12 years of my life living in a diving chamber all over the planet. I'm 
 
 - 📱 I’m currently working on my portfolio webpage & an app for CN Rail
 - 💻 One of the best parts of web dev is not having to write on pen and paper... as a lefty (if you know you know)
-- 🤓 I’m currently fine tuning my skills with FreeCodeCamp and AlgoExpert
+- 🤓 I’m currently fine tuning my skills with AlgoExpert and part-time for Attune Fitness App 
 - 📫  How to reach me: billy_mckinnon@hotmail.com
 - 🤡 Fun fact: I am DEATHLY afraid of heights
 - 🍟 Link to our Midterm Project: M.V.Poutine https://drive.google.com/file/d/1qWMjCsRZwXaTALJ5yBUboVkRxfWnzTB-/view?usp=sharing
