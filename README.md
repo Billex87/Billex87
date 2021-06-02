@@ -1,6 +1,7 @@
+background-color: "white"
 <img align="right" src="https://github.com/Billex87/Billex87/blob/main/favpng_florida-scuba-divers-underwater-diving-diving-mask-scuba-diving.png" width=350px height=465px/>
 
-### Hi, I'm Billy🤿 👋
+### Hi, I'm Billy 🤿 👋
 
 I spent 12 years of my life living in a diving chamber all over the planet. I'm a recent graduate of LightHouse Labs and am actively trying to get out of the water and into the world of web development.
 
