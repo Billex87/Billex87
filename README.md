@@ -1,4 +1,3 @@
-background-color: "white"
 <img align="right" src="https://github.com/Billex87/Billex87/blob/main/favpng_florida-scuba-divers-underwater-diving-diving-mask-scuba-diving.png" width=350px height=465px/>
 
 ### Hi, I'm Billy 🤿 👋
