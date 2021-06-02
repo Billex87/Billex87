@@ -1,10 +1,9 @@
 <img align="right" src="https://github.com/Billex87/Billex87/blob/main/favpng_florida-scuba-divers-underwater-diving-diving-mask-scuba-diving.png" width=350px height=465px/>
 
 ### Hi, I'm Billy 🤿 👋
-<a color:blue>
 I spent 12 years of my life living in a diving chamber all over the planet. I'm a recent graduate of LightHouse Labs and am actively trying to get out of the water and into the world of web development.
 
-- ✨<a href="billymckinnon.com">My Portfolio Page</a>✨
+- <a href="https://billymckinnon.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
 - 📱 I’m currently working for [Attune Fitness](https://attune.app/) & [Big Boy Marketing](https://bigboy.ca/)
 - 💻 One of the best parts of web dev is not having to write on pen and paper... as a lefty (if you know you know)
 - 🤓 I’m currently fine tuning my skills creating [RailTrack.app](https://railtrack.herokuapp.com)
