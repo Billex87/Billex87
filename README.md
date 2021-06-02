@@ -1,7 +1,6 @@
 <img align="right" src="https://github.com/Billex87/Billex87/blob/main/favpng_florida-scuba-divers-underwater-diving-diving-mask-scuba-diving.png" width=350px height=465px/>
 
 ### Hi, I'm Billy 🤿 👋
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
 
 I spent 12 years of my life living in a diving chamber all over the planet. I'm a recent graduate of LightHouse Labs and am actively trying to get out of the water and into the world of web development.
 
@@ -15,3 +14,4 @@ I spent 12 years of my life living in a diving chamber all over the planet. I'm 
 - 🏀 Link to our Final Project: [GOAT Talk](https://drive.google.com/file/d/1BDYtnU6JS4ADiOzHGSguMJ8JYRGP1-bX/view?usp=drivesdk)
 
  ![My github stats](https://github-readme-stats.vercel.app/api?username=billex87&show_icons=true&theme=nord)
+ <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
