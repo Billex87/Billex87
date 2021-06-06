@@ -5,7 +5,7 @@ I spent 12 years of my life living in a diving chamber all over the planet. I'm 
 
 - 👨‍💼 <a href="https://billymckinnon.com" alt="My site">My Website</a>
 - 🚆 I’m currently using the MERN stack creating [RailTrack.app](https://railtrack.herokuapp.com)🛤️
-- 📱 I’m working for [Attune Fitness](https://attune.app/) & [Big Boy Marketing](https://bigboy.ca/)
+- 📱 I’m working for [Attune Fitness](https://attune.app/)
 - 💻 One of the best parts of web dev is not having to write on pen and paper... as a lefty (if you know you know)
 - 📫 You can reach me: <a href="mailto: billy_mckinnon@hotmail.com">Here</a>
 - 🍟 Link to our Midterm Project: [M.V.Poutine](https://drive.google.com/file/d/1qWMjCsRZwXaTALJ5yBUboVkRxfWnzTB-/view?usp=sharing)
