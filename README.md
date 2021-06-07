@@ -3,7 +3,7 @@
 ### Hi, I'm Billy 🤿 👋
 After spending 12 years of my life saturation diving all over the planet I'm shifting my focus to my new passion in web development. I'm a recent graduate of LightHouse Labs and am actively trying to get out of the water and into the world of web development.
 
-- 👨‍💼 <a href="https://billymckinnon.com" alt="My site">My Website</a>
+- 👨‍💼 <a href="https://billymckinnon.com" alt="My site">My Portfolio Page</a>
 - 🚆 I’m currently using the MERN stack creating [RailTrack.app](https://railtrack.herokuapp.com)🛤️
 - 📱 I’m working for [Attune Fitness](https://attune.app/)
 - 💻 One of the best parts of web dev is not having to write on pen and paper... as a lefty (if you know you know)
