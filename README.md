@@ -6,7 +6,7 @@ After spending 12 years of my life saturation diving all over the planet I'm shi
 - 👨‍💼 <a href="https://billymckinnon.com" alt="My site">My Portfolio Page</a>
 - 🚆 I’m currently using the MERN stack creating [RailTrack.app](https://railtrack.herokuapp.com)🛤️
 - 📱 I’m working for [Attune Fitness](https://attune.app/)
-- 📫 You can reach me: <a href="mailto: billy_mckinnon@hotmail.com">Here</a>
+- 📫 You can reach me: <a href="mailto: billy_mckinnon@icloud.com">Here</a>
 - 🍟 Link to our Midterm Project: [M.V.Poutine](https://drive.google.com/file/d/1qWMjCsRZwXaTALJ5yBUboVkRxfWnzTB-/view?usp=sharing)
 - 🏀 Link to our Final Project: [GOAT Talk](https://drive.google.com/file/d/1BDYtnU6JS4ADiOzHGSguMJ8JYRGP1-bX/view?usp=drivesdk)
 - 🤡 Fun fact: I am DEATHLY afraid of heights
