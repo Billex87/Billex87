@@ -6,7 +6,7 @@ After spending 12 years in the saturation diving industry. Working from Canada, 
 - 📫 You can reach me: <a href="mailto: billy_mckinnon@icloud.com">Here</a>
 - 👨‍💼 <a href="https://billymckinnon.com" alt="My site">My Portfolio Page</a>
 - 🤡 Fun fact: I am DEATHLY afraid of heights
-- 🛤️ I’m currently using the MERN stack creating [RailTrack.app](https://railtrack.herokuapp.com)
+- 🛤️ I’m currently using the MERN stack to create [RailTrack.app](https://railtrack.herokuapp.com)
 - 📱 I’m working for [Attune Fitness](https://attune.app/) and brushing up on my React
 - 🍟 Link to our Midterm Project: [M.V.Poutine](https://drive.google.com/file/d/1qWMjCsRZwXaTALJ5yBUboVkRxfWnzTB-/view?usp=sharing)
 - 🏀 Link to our Final Project: [GOAT Talk](https://drive.google.com/file/d/1BDYtnU6JS4ADiOzHGSguMJ8JYRGP1-bX/view?usp=drivesdk)
