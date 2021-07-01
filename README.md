@@ -3,7 +3,7 @@
 ### Hey there, I'm Billy 🤿 👋
 After spending 12 years in the saturation diving industry. Working from Canada, to the UK && mostly in Asia I'm shifting my focus to my new passion, in web development. I'm a recent graduate of LightHouse Labs and have been working contract work, am now open to a full time role.
 
-- 📫 You can reach me: <a href="mailto: billy_mckinnon@icloud.com">Here</a>
+- 📫 You can reach me: <a href="mailto: billy_mckinnon@icloud.com">Right Here</a>
 - 👨‍💼 <a href="https://billymckinnon.com" alt="My site">My Portfolio Page</a>
 - 🤡 Fun fact: I am DEATHLY afraid of heights
 - 🛤️ I’m currently using the MERN stack to create [RailTrack.app](https://railtrack.herokuapp.com)
