@@ -4,11 +4,11 @@
 🤿 After spending 12 years in the saturation diving industry. Working from Canada, to the UK && mostly in Asia I'm shifting my focus to my new passion, in web development. 
 🧭 I'm a recent graduate of LightHouse Labs and have been working contract work, am now open to a full time role.
 
-- 👨 <a href="https://bit.ly/364X39Z" alt="My site">My Video Resumé</a>
+- 📹 <a href="https://bit.ly/364X39Z" alt="My site">My Video Resumé</a>
 - 📫 You can reach me: <a href="mailto: billy_mckinnon@icloud.com">Right Here</a>
 - 👨‍💼 <a href="https://billymckinnon.com" alt="My site">My Portfolio Page</a>
 - 🤡 Fun Fact: I am DEATHLY afraid of heights
-- 🛤️ One of my favourite projects was: [RailTrack.app](https://railtrack.herokuapp.com)
+- 🛤️ One of my favourite projects was: [RailTrack.app](https://railtrack.app)
 - 📱 I’m working for [Attune Fitness](https://attune.app/) and brushing up on my React
 - 🍟 Link to our Midterm Project: [M.V.Poutine](https://drive.google.com/file/d/1qWMjCsRZwXaTALJ5yBUboVkRxfWnzTB-/view?usp=sharing)
 - 🏀 Link to our Final Project: [GOAT Talk](https://drive.google.com/file/d/1BDYtnU6JS4ADiOzHGSguMJ8JYRGP1-bX/view?usp=drivesdk)
