@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/Billex87/Billex87/blob/main/favpng_florida-scuba-divers-underwater-diving-diving-mask-scuba-diving.png" width=350px height=465px/>
 
 ### Hey there, I'm Billy McKinnon👋
-🤿 After spending 12 years in the saturation diving industry. Working from Canada, to the UK && mostly in Asia I'm shifting my focus to my new passion, in web development. 
+🤿 After spending 14 years in the saturation diving industry. Working from Canada, to the UK && mostly in Asia I'm shifting my focus to my new passion, in web development. 
 🧭 I'm a recent graduate of LightHouse Labs and have been working contract work, am now open to a full time role.
 
 - 📹 <a href="https://bit.ly/364X39Z" alt="My site">My Video Resumé</a>
