@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Billy McKinnon👋
 🤿 I spent 14 years in the saturation diving industry. Working from Canada, to the UK && mostly in Asia I'm shifting my focus to my new passion, in web development. 
-🧭 I'm a recent graduate of LightHouse Labs and have been working contract work, am now open to a full time role.
+🧭 I'm a recent graduate of LightHouse Labs and have been working contract work, and am about to start a full time role.
 
 - ⌨️ <a href="https://resume.creddle.io/resume/d8xlf5aht4s" alt="My site">My Interactive Resumé</a>
 - 📹 <a href="https://bit.ly/364X39Z" alt="My site">My Video Resumé</a>
