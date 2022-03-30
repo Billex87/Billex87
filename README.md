@@ -4,6 +4,7 @@
 🤿 I spent 14 years in the saturation diving industry. Working from Canada, to the UK && mostly in Asia I'm shifting my focus to my new passion, in web development. 
 🧭 I'm a recent graduate of LightHouse Labs and have been working contract work, and look forward to my new full-time gig next week.
 
+- 📱 I’m working for [Moresby Media](https://www.constant-content.com/) working with PHP, AWS and React
 - ⌨️ <a href="https://resume.creddle.io/resume/d8xlf5aht4s" alt="My site">My Interactive Resumé</a>
 - 📹 <a href="https://bit.ly/364X39Z" alt="My site">My Video Resumé</a>
 - 📫 You can reach me: <a href="mailto: billy_mckinnon@icloud.com">Right Here</a>
@@ -12,7 +13,6 @@
 - 🚚 Latest project was a website for an oil and gas company [Patriks WaterHauling](https://patriks.netlify.app/)
 - 🛒 Project was inspired my by wife with: [DebbiE-Commerce](https://debbie-commerce.herokuapp.com/)
 - 🛤️ One of my favourite projects was: [RailTrack.app](https://railtrack.app)
-- 📱 I’m working for [Moresby Media](https://www.constant-content.com/) working with PHP, AWS and React
 - 🍟 Link to our Midterm Project: [M.V.Poutine](https://drive.google.com/file/d/1qWMjCsRZwXaTALJ5yBUboVkRxfWnzTB-/view?usp=sharing)
 - 🏀 Link to our Final Project: [GOAT Talk](https://drive.google.com/file/d/1BDYtnU6JS4ADiOzHGSguMJ8JYRGP1-bX/view?usp=drivesdk)
 
