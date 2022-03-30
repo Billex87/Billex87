@@ -9,7 +9,8 @@
 - 📫 You can reach me: <a href="mailto: billy_mckinnon@icloud.com">Right Here</a>
 - 👨‍💼 <a href="https://billymckinnon.com" alt="My site">My Portfolio Page</a>
 - 🤡 Fun Fact: I am DEATHLY afraid of heights
-- 🛒 Latest Project was inspired my by wife with: [DebbiE-Commerce](https://debbie-commerce.herokuapp.com/)
+- 🚚 Latest project was a website for an oil and gas company [Patriks WaterHauling](https://patriks.netlify.app/)
+- 🛒 Project was inspired my by wife with: [DebbiE-Commerce](https://debbie-commerce.herokuapp.com/)
 - 🛤️ One of my favourite projects was: [RailTrack.app](https://railtrack.app)
 - 📱 I’m working for [Moresby Media](https://www.constant-content.com/) working with PHP, AWS and React
 - 🍟 Link to our Midterm Project: [M.V.Poutine](https://drive.google.com/file/d/1qWMjCsRZwXaTALJ5yBUboVkRxfWnzTB-/view?usp=sharing)
