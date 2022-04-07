@@ -5,9 +5,9 @@
 🧭 I'm a recent graduate of LightHouse Labs and have been working contract work, and look forward to my new full-time gig next week.
 
 - 👨‍💼 <a href="https://billymckinnon.com" alt="My site">My Portfolio Page</a>
-- - 📫 You can reach me: <a href="mailto: billy_mckinnon@icloud.com">Right Here</a>
-- 📱 I’m working for [Moresby Media](https://www.constant-content.com/) working with PHP, AWS and React
 - ⌨️ <a href="https://resume.creddle.io/resume/d8xlf5aht4s" alt="My site">My Interactive Resumé</a>
+- 📫 You can reach me: <a href="mailto: billy_mckinnon@icloud.com">Right Here</a>
+- 📱 I’m working for [Moresby Media](https://www.constant-content.com/) working with PHP, AWS and React
 - 🚚 Latest project was a website for an oil and gas company [Patriks WaterHauling](https://www.pwhltd.com/)
 - 🛒 Project was inspired my by my friend with: [DebbiE-Commerce](https://debbie-commerce.herokuapp.com/)
 - 🛤️ One of my favourite projects was: [RailTrack.app](https://railtrack.app)
