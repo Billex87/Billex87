@@ -6,7 +6,6 @@
 
 - 📱 I’m working for [Moresby Media](https://www.constant-content.com/) working with PHP, AWS and React
 - ⌨️ <a href="https://resume.creddle.io/resume/d8xlf5aht4s" alt="My site">My Interactive Resumé</a>
-- 📹 <a href="https://bit.ly/364X39Z" alt="My site">My Video Resumé</a>
 - 📫 You can reach me: <a href="mailto: billy_mckinnon@icloud.com">Right Here</a>
 - 👨‍💼 <a href="https://billymckinnon.com" alt="My site">My Portfolio Page</a>
 - 🚚 Latest project was a website for an oil and gas company [Patriks WaterHauling](https://www.pwhltd.com/)
@@ -14,7 +13,7 @@
 - 🛤️ One of my favourite projects was: [RailTrack.app](https://railtrack.app)
 - 🍟 Link to our Midterm Project: [M.V.Poutine](https://drive.google.com/file/d/1qWMjCsRZwXaTALJ5yBUboVkRxfWnzTB-/view?usp=sharing)
 - 🏀 Link to our Final Project: [GOAT Talk](https://drive.google.com/file/d/1BDYtnU6JS4ADiOzHGSguMJ8JYRGP1-bX/view?usp=drivesdk)
-
+- 📹 <a href="https://bit.ly/364X39Z" alt="My site">My Video Resumé</a>
 
  ![My github stats](https://github-readme-stats.vercel.app/api?username=billex87&show_icons=true&theme=nord)
  <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
