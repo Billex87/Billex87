@@ -15,5 +15,4 @@
 - 🏀 Link to our Final Project: [GOAT Talk](https://drive.google.com/file/d/1BDYtnU6JS4ADiOzHGSguMJ8JYRGP1-bX/view?usp=drivesdk)
 - 📹 <a href="https://bit.ly/364X39Z" alt="My site">My Video Resumé</a>
 
- ![My github stats](https://github-readme-stats.vercel.app/api?username=billex87&show_icons=true&theme=nord)
  <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
